@@ -36,6 +36,9 @@ the organization.
 - [node-auto-test](https://github.com/nodejs/node-auto-test)
   - A [nodejs/node](https://github.com/nodejs/node) clone for testing tools
     and bots.
+- [node-core-utils](https://github.com/nodejs/node-core-utils)
+  - Command line tools for Collaborators. Generating and formatting PR 
+  metadatas, and much more.
 - [node-review](https://github.com/nodejs/node-review)
   - A browser extension that generates the metadata required for landing
     a Node.js Pull Request.
